@@ -33,7 +33,7 @@ _기울이기_ _기울이기_
 **_혼용해서 기울이고 두껍게 사용할 수 있습니다._**
 
 3. 인용
-   > 으로 시작하는 텍스트로 최대 3개까지 사용 가능합니다.
+   \> 으로 시작하는 텍스트로 최대 3개까지 사용 가능합니다.
 
 예문
 
@@ -52,34 +52,34 @@ _기울이기_ _기울이기_
 *하나
 *둘 \*셋 +하나 +둘 +셋 -하나 -둘 -셋
 
-1순서
-1있는
-1목록
-1TAB
-1순서
-1있는
-1목록
+1. 순서
+1. 있는
+1. 목록
+   1TAB
+   1 순서
+   1 있는
+   1 목록
 
-5. 링크
+1. 링크
    링크는 다음과 같이 표현할 수 있습니다.
-   [이름](링크) [이름](링크"설명") [이름][참조] [참조]: 링크 [참조]: 링크"설명"
+   ` \[이름]\(링크) \[이름]\(링크"설명") \[이름]\[참조] \[참조]: 링크 \[참조]: 링크"설명"`
 
 예문
-[네이버](https://www.naver.com/)
-[구글](https://www.google.com/"구글 홈페이지")
-[깃허브][git]
-[git]: https://github.com/
-[유튜브]: https://www.youtube.com/ "수많은 영상이 있는 유튜브"
+[네이버](https://www.naver.com/) <br>
+[구글](https://www.google.com/"구글 홈페이지") <br>
+[깃허브][git] <br>
+[git]: https://github.com/ <br>
+[유튜브]: https://www.youtube.com/ "수많은 영상이 있는 유튜브" <br>
 
 6. 이미지
    링크와 비슷한 형식이지만 앞에 !가 붙습니다.
 
 예문
-![증명사진](./src/assets/profiles/woohyun.jpg '증명사진')
-![하프물범](https://i.namu.wiki/i/F5HsD-JwY4Pi_n69ak0zOA2VfDnHM8AEPns3LCefaV7UFteAGMuJGXqfg8wB3Io12NHwTQHjlWMngCNzcfEiAZ1QV2leR5kPhpwzKJmkOauPbGl5WLUZPk65FRySwJvMq5-YBo2oST4TiobwRG2wAQ.webp"나무위키 하프물범 문서 이미지")
+![증명사진](/src/assets/profiles/woohyun.jpg '증명사진')
+![하프물범](https://i.namu.wiki/i/F5HsD-JwY4Pi_n69ak0zOA2VfDnHM8AEPns3LCefaV7UFteAGMuJGXqfg8wB3Io12NHwTQHjlWMngCNzcfEiAZ1QV2leR5kPhpwzKJmkOauPbGl5WLUZPk65FRySwJvMq5-YBo2oST4TiobwRG2wAQ.webp '나무위키 하프물범 문서 이미지')
 
 이미지에 링크 추가하기
-[![슬비쌤 깃허브](./src/assets/profiles/ssam.jpg)](https://github.com/seulbinim)
+[![슬비쌤 깃허브](/src/assets/profiles/ssam.jpg)](https://github.com/seulbinim)
 
 7. 인라인
    `로 감싸 인라인 코드를 표현할 수 있습니다.

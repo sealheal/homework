@@ -2,7 +2,7 @@
 
 ## 얘야 인생이란 원래 자기 생각대로 되지 않는 법이란다
 
-![중성마녀]([https://opgg-com-image.akamaized.net/attach/images/20200602164435.800259.gif](https://i.namu.wiki/i/DQd48_CiD8u0GMVY86b76JBL2AWOQ7MR5dCMGT6vzodAVu_IlRLbiCWMbhXUmi007U3rmw_ca06Dk8pLq-Tlq82kNSn0wKlX8tL4C0P1fl_YGjYFSgKSpHQzFc90EKaXIt_EQcP-cX6JMCcVh4vi_w.webp))
+![중성마녀](https://i.namu.wiki/i/DQd48_CiD8u0GMVY86b76JBL2AWOQ7MR5dCMGT6vzodAVu_IlRLbiCWMbhXUmi007U3rmw_ca06Dk8pLq-Tlq82kNSn0wKlX8tL4C0P1fl_YGjYFSgKSpHQzFc90EKaXIt_EQcP-cX6JMCcVh4vi_w.webp)
 
 > 짱구 극장판에서 나온지 20년도 더 된 대사지만 맞는 말이다.
 
@@ -19,5 +19,5 @@
 복습해보니 html은 그래도 표준화를 시킨 후에 큰 변화가 많이 없었던 것 같다. 하지만 CSS는 내가 공부하고 난 뒤에도 이런저런 기능이 계속해서 생겨날 것 같아서 모든 기능을 익힌다고 접근하지 말고 자기주도적으로 공부해야 한다는 걸 체감했다.
 자바스크립트에 들어가면 배운 것들 중에 CSS를 가장 못하게 되려나 싶기도 하다. 그런데 정작 JS를 가장 못하게 되고 html이랑 css만 잘 이해하게 되면 그것도 문제겠지. 역시 사람은 알지 못하는 것에 대한 두려움과 설렘을 마음 한 켠에 두고 살아가는 듯 하다.
 마지막으로 html을 공부하다가 인상깊었던 태그가 하나 있는데 `<ruby>` 태그다. 이건 한자 위에 읽는 법을 추가해주는 태그인데 이 태그를 가장 잘 활용할 수 있는 나라는 일본이다. 그런데도 표준에 포함되었다는 게 좀 신기했다.
-그리고 관련된 태그가 2개나 더 있는데, `ruby`로 한자와 읽는 법을 `div`처럼 감싸고 한자 뒤 있는 법을 `span`처럼 `<rt>`로 감싸서 사용하면 되는 태그이다. 그런데 여기서 `ruby`가 지원되지 않는 웹 브라우저를 위하여 앞 뒤 괄호()를`rp`로 ```<rp>(<rp><rt>읽는 법<rt><rp>)<rp>```
+그리고 관련된 태그가 2개나 더 있는데, `ruby`로 한자와 읽는 법을 `div`처럼 감싸고 한자 뒤 있는 법을 `span`처럼 `<rt>`로 감싸서 사용하면 되는 태그이다. 그런데 여기서 `ruby`가 지원되지 않는 웹 브라우저를 위하여 앞 뒤 괄호()를`rp`로 `<rp>(<rp><rt>읽는 법<rt><rp>)<rp>`
 감싸기까지 한다는 게 인상적이었다. 물론 내가 일본어 전공이라 이걸 인상적으로 봤을지도 모르지만, 복습하면서 나라와 문화권에 따라 더 잘 쓰이는 태그가 있을 수도 있겠다는 생각이 들었다.

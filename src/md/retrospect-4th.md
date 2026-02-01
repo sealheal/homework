@@ -2,7 +2,7 @@
 
 ## 얘야 인생이란 원래 자기 생각대로 되지 않는 법이란다
 
-![중성마녀](https://opgg-com-image.akamaized.net/attach/images/20200602164435.800259.gif)
+![중성마녀]([https://opgg-com-image.akamaized.net/attach/images/20200602164435.800259.gif](https://i.namu.wiki/i/DQd48_CiD8u0GMVY86b76JBL2AWOQ7MR5dCMGT6vzodAVu_IlRLbiCWMbhXUmi007U3rmw_ca06Dk8pLq-Tlq82kNSn0wKlX8tL4C0P1fl_YGjYFSgKSpHQzFc90EKaXIt_EQcP-cX6JMCcVh4vi_w.webp))
 
 > 짱구 극장판에서 나온지 20년도 더 된 대사지만 맞는 말이다.
 
